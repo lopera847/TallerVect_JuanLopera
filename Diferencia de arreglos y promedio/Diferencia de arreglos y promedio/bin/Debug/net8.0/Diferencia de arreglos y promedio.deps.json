@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Diferencia de arreglos y promedio/1.0.0": {
+        "runtime": {
+          "Diferencia de arreglos y promedio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Diferencia de arreglos y promedio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

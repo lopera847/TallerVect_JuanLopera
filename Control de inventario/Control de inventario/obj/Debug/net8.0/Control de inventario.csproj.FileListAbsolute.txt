@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\Control de inventario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\Control de inventario.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\Control de inventario.AssemblyInfo.cs
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\Control de inventario.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\bin\Debug\net8.0\Control de inventario.exe
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\bin\Debug\net8.0\Control de inventario.deps.json
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\bin\Debug\net8.0\Control de inventario.runtimeconfig.json
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\bin\Debug\net8.0\Control de inventario.dll
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\bin\Debug\net8.0\Control de inventario.pdb
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\Control de inventario.dll
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\refint\Control de inventario.dll
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\Control de inventario.pdb
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\Control de inventario.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Control de inventario\Control de inventario\obj\Debug\net8.0\ref\Control de inventario.dll

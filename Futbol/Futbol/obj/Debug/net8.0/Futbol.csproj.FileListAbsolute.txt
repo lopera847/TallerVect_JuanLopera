@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\Futbol\Futbol\bin\Debug\net8.0\Futbol.exe
+C:\Users\aleja\source\repos\Futbol\Futbol\bin\Debug\net8.0\Futbol.deps.json
+C:\Users\aleja\source\repos\Futbol\Futbol\bin\Debug\net8.0\Futbol.runtimeconfig.json
+C:\Users\aleja\source\repos\Futbol\Futbol\bin\Debug\net8.0\Futbol.dll
+C:\Users\aleja\source\repos\Futbol\Futbol\bin\Debug\net8.0\Futbol.pdb
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\Futbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\Futbol.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\Futbol.AssemblyInfo.cs
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\Futbol.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\Futbol.dll
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\refint\Futbol.dll
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\Futbol.pdb
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\Futbol.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Futbol\Futbol\obj\Debug\net8.0\ref\Futbol.dll

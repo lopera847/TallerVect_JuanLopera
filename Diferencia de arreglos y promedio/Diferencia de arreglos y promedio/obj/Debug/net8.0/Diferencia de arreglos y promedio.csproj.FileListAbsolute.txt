@@ -1,0 +1,14 @@
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\bin\Debug\net8.0\Diferencia de arreglos y promedio.exe
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\bin\Debug\net8.0\Diferencia de arreglos y promedio.deps.json
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\bin\Debug\net8.0\Diferencia de arreglos y promedio.runtimeconfig.json
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\bin\Debug\net8.0\Diferencia de arreglos y promedio.dll
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\bin\Debug\net8.0\Diferencia de arreglos y promedio.pdb
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\Diferencia de arreglos y promedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\Diferencia de arreglos y promedio.AssemblyInfoInputs.cache
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\Diferencia de arreglos y promedio.AssemblyInfo.cs
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\Diferencia de arreglos y promedio.csproj.CoreCompileInputs.cache
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\Diferencia de arreglos y promedio.dll
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\refint\Diferencia de arreglos y promedio.dll
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\Diferencia de arreglos y promedio.pdb
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\Diferencia de arreglos y promedio.genruntimeconfig.cache
+C:\Users\aleja\source\repos\Diferencia de arreglos y promedio\Diferencia de arreglos y promedio\obj\Debug\net8.0\ref\Diferencia de arreglos y promedio.dll
